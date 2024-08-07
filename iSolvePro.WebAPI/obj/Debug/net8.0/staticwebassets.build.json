@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bamr1GvoRjCHwxJIIXejXa9AL55thH4MSEkNhdO4WwE=",
+  "Source": "iSolvePro.WebAPI",
+  "BasePath": "_content/iSolvePro.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
