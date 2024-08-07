@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "iSolvePro.Application/1.0.0": {
+        "dependencies": {
+          "iSolvePro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "iSolvePro.Application.dll": {}
+        }
+      },
+      "iSolvePro.Domain/1.0.0": {
+        "runtime": {
+          "iSolvePro.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iSolvePro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "iSolvePro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+G:\All Projects\iSolveProBackend\iSolvePro.Application\bin\Debug\net8.0\iSolvePro.Application.deps.json
+G:\All Projects\iSolveProBackend\iSolvePro.Application\bin\Debug\net8.0\iSolvePro.Application.dll
+G:\All Projects\iSolveProBackend\iSolvePro.Application\bin\Debug\net8.0\iSolvePro.Application.pdb
+G:\All Projects\iSolveProBackend\iSolvePro.Application\bin\Debug\net8.0\iSolvePro.Domain.dll
+G:\All Projects\iSolveProBackend\iSolvePro.Application\bin\Debug\net8.0\iSolvePro.Domain.pdb
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePro.Application.csproj.AssemblyReference.cache
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePro.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePro.Application.AssemblyInfoInputs.cache
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePro.Application.AssemblyInfo.cs
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePro.Application.csproj.CoreCompileInputs.cache
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePro.Application.sourcelink.json
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePr.64F0CF5F.Up2Date
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePro.Application.dll
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\refint\iSolvePro.Application.dll
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\iSolvePro.Application.pdb
+G:\All Projects\iSolveProBackend\iSolvePro.Application\obj\Debug\net8.0\ref\iSolvePro.Application.dll
