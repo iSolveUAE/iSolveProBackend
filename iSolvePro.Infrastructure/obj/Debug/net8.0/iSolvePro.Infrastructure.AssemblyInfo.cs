@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iSolvePro.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4c005a738d3213a1f8d3ae582eef2ed0e7ce8db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95e3a6d7c415bab8b7d28e31323503eaf548a5ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("iSolvePro.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iSolvePro.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
