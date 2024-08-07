@@ -8,9 +8,11 @@ using System.Threading.Tasks;
 
 namespace iSolvePro.Domain.Enities
 {
-    public class SubCompany:Setup
+    public class SubCompany:Setupbase
     {
         public int ParentCompID { get; set; }
+        [ForeignKey("ParentCompID")]
+        public ParentCompany ParentCompany { get; set; }
         [Column(TypeName = ("varchar(200)"))]
         public string CompanyName { get; set; } = string.Empty;
         [Column(TypeName = ("tinyint"))]
