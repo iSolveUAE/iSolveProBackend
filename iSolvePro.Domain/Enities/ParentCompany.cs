@@ -9,9 +9,8 @@ using System.Threading.Tasks;
 
 namespace iSolvePro.Domain.Enities
 {
-    public class ParentCompany:Setup
+    public class ParentCompany:Setupbase
     {
-       
 
         [Column(TypeName =("varchar(200)"))]
         public string CompanyName { get; set; } = string.Empty;
