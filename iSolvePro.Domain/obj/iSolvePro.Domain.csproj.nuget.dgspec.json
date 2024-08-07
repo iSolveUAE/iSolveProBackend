@@ -1,32 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "G:\\All Projects\\iSolveProBackend\\iSolvePro.Domain\\iSolvePro.Domain.csproj": {}
+    "D:\\iSOLVE Repo\\iSolvePro.Domain\\iSolvePro.Domain.csproj": {}
   },
   "projects": {
-    "G:\\All Projects\\iSolveProBackend\\iSolvePro.Domain\\iSolvePro.Domain.csproj": {
+    "D:\\iSOLVE Repo\\iSolvePro.Domain\\iSolvePro.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\All Projects\\iSolveProBackend\\iSolvePro.Domain\\iSolvePro.Domain.csproj",
+        "projectUniqueName": "D:\\iSOLVE Repo\\iSolvePro.Domain\\iSolvePro.Domain.csproj",
         "projectName": "iSolvePro.Domain",
-        "projectPath": "G:\\All Projects\\iSolveProBackend\\iSolvePro.Domain\\iSolvePro.Domain.csproj",
-        "packagesPath": "C:\\Users\\fahee\\.nuget\\packages\\",
-        "outputPath": "G:\\All Projects\\iSolveProBackend\\iSolvePro.Domain\\obj\\",
+        "projectPath": "D:\\iSOLVE Repo\\iSolvePro.Domain\\iSolvePro.Domain.csproj",
+        "packagesPath": "C:\\Users\\Laptop inn\\.nuget\\packages\\",
+        "outputPath": "D:\\iSOLVE Repo\\iSolvePro.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fahee\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Users\\Laptop inn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
