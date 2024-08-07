@@ -5,13 +5,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace iSolvePro.Domain.Base
+namespace iSolvePro.Domain.Enities
 {
-    public class Setup
+    public class Role
     {
         [Key]
-        public int ID { get; set; }
-        public DateTime CreatedDate { get{ return DateTime.Now; } }
+        public int Id { get; set; }
+        [Required]
+        public string RoleName { get; set; }=string.Empty;
+        public DateTime CreatedDate { get { return DateTime.Now; } }
         public DateTime ModifiedDate { get { return DateTime.Now; } }
+
+
     }
+
 }
