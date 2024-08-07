@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iSolvePro.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f729ea376de78915f506a3c2d86a7d60e2b6fb41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f9c775bb03f87bb635ae7a06afea0f208659d6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("iSolvePro.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iSolvePro.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
